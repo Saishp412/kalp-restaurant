@@ -1,0 +1,661 @@
+Meals
+Veg Meals
+Steamed rice with veg katsu curry
+Steamed Rice+Veg Katsu Curry
+Steamed rice with veg Veg thai red curry
+Steamed Rice+Veg Thai Red Curry
+Steamed rice with veg thai green curry
+Steamed Rice+Veg Thai Green Curry
+
+Non Veg Meals
+Steamed rice with chicken katsu curry
+Steamed Rice+Chicken Katsu Curry
+Steamed rice with chicken thai red curry
+Steamed Rice+Chicken Thai Red Curry
+Steamed rice with chicken thai green curry
+Steamed Rice+Chicken Thai Green Curry
+Steamed rice with fish thai red curry
+Steamed Rice+Fish Thai Red Curry
+Steamed rice with fish thai green curry
+Steamed Rice+Fish Thai Green Curry
+Steamed rice with prawns thai red curry
+Steamed Rice+Prawns Thai Red Curry
+Steamed rice with prawns thai green curry
+Steamed Rice+Prawns Thai Green Curry
+
+European Meals
+Grilled cottage with peri peri sauce
+Herb grilled cottage cheese and spicy peri peri sauce.
+Grilled chicken breast with demi glaze
+Pan seared chicken breast with rich demi glace sauce.
+Herb grilled basa with lemon butter sauce
+Herb marinated basa fillet, citrus butter sauce.
+Fish and chips
+Crispy beer battered fish, chunky chips and tartar sauce.
+
+Make Your Own One Pot Meal
+Make Your Own Veg Handi Meal
+Paneer meal
+Tofu meal
+
+Make Your Own Non Veg Handi Meal
+Chicken meal
+Fish meal
+Prawns meal
+
+Soups
+Veg Soups
+Veg manchow soup
+Veg manchow soup
+Veg miso soup
+Veg tom kha soup
+Tomato basil soup
+
+Non Veg Soup
+Chicken manchow soup
+Chicken manchow soup
+A chinese soup Indianized to pallet served along with fried noodles.
+Chicken miso soup
+Chicken tom kha soup
+Murgh dhaniya shorba
+Prawns manchow soup
+Prawns manchow soup
+Spicy and tangy Indo Chinese soup served with fried noodles.
+Prawns miso soup
+Prawns tom kha soup
+Shorba manti soup
+
+Starters
+Veg Starters
+Veg manchurian dry
+Veg manchurian dry
+Crispy veg dumplings in tangy Indo Chinese sauce.
+Honey tamarind lotus root
+Crispy lotus root in honey tamarind glaze.
+Veg spring roll
+Veg spring roll
+Crispy rolls with vegetables and schezwan sauce.
+Paneer kurkuri tikka
+Sev rolled paneer tikka, cheese stuffed and crispy.
+Kaju bhara kebab
+Cashew stuffed kebab, mildly spiced and pan fried.
+Dahi ke kebab
+Dahi ke kebab
+Hung curd and paneer kebab melt in mouth.
+Chilli garlic broccoli and cashew
+Crispy broccoli with garlic and crunchy cashews.
+Chilli paneer dry
+Crispy paneer with onions, capsicum and garlic.
+Paneer pattaya
+Paneer in thai green curry paste and coconut milk.
+Paneer hot basil
+Stir fried paneer with basil and chilli sauce.
+Seoul style gochujang tofu
+Crispy tofu in Korean gochujang glaze.
+Multani mushroom tikka
+Cheese stuffed mushrooms and yogurt marinated.
+Sebze kebabi
+Turkish inspired spiced mixed vegetable skewer.
+Himalayan green herb paneer tikka
+Mint-coriander and yogurt smoky, earthy, herbaceous
+Royal tandoori paneer tikka
+Classic yogurt and spice marination with capsicum.
+Paneer kalimiri tikka
+Cream, yogurt and freshly crushed black pepper.
+Paneer barrels
+Cylindrical paneer stuffed with spiced filling.
+
+Non Veg Starters
+Tandoori chicken
+Overnight yogurt and spice marination.
+Andra pepper chicken
+Andra pepper chicken
+Crushed black pepper, curry leaves and South Indian spices.
+Ghee roast chicken
+Mangalorean slow roasted in ghee and coastal spices .
+Thecha chicken
+Maharashtrian fiery green chilli and garlic thecha.
+Chilli chicken dry
+Crispy chicken, onions, capsicum and Indo Chinese sauce.
+Buhari chicken 65
+Legendary Chennai recipe crispy chicken and curry leaves.
+Seoul fried chicken wings
+Crispy wings in Korean gochujang, honey and sesame.
+Satay chicken
+Grilled skewers with creamy peanut sauce.
+Kung pao chicken
+Kung pao chicken
+Peanuts, dried chillies and peppers, spicy sweet sauce.
+Teriyaki chicken
+Grilled chicken in Japanese teriyaki glaze.
+Chicken chilli basil
+Crispy chicken with fresh basil and chilli sauce.
+Singnature chargrilled chicken tikka
+House chargrilled tikka marinade the standard.
+Spicy coriander chicken
+Chicken in fragrant coriander sauce and fiery kick.
+Chicken fried wonton
+Crispy golden wontons with spiced minced chicken.
+Cheesy chicken kebab
+Cheese stuffed chicken, tandoor-roasted melty and smoky.
+Himalayan green herb chicken tikka
+Mint coriander marinade smoky, herbal and zesty.
+Harissa chicken kebab
+Middle Eastern harissa marinated chicken.
+Kebab joojeh
+Persian saffron marinated chicken skewer.
+Classic chicken lollipop
+Fried lollipop with Indo Chinese spices.
+Chicken kalimiri tikka
+Cream, yogurt and freshly crushed black pepper.
+Schezwan chicken lolipop
+Crispy lollipop tossed in fiery schezwan sauce.
+Mutton ghee roast
+Mirza sahab ke gola kebab
+Melt in mouth minced mutton kababs royal heritage
+Mutton bhuna
+Mutton theccha
+Tangdi kebab
+Drumstick marinated in aromatic spices.
+Tandoori raan
+Whole lamb leg marinated overnight, tandoor roasted.
+Pattaya fish
+Fish in Thai green curry paste and coconut milk
+Grilled spicy coriander fish
+Stuffed pomfret banana leaf
+Whole pomfret stuffed with masala, banana leaf tawa fried.
+Pomfret rawa fry
+Whole pomfret, semolina coated and coastal perfection.
+Surmai tawa fry
+Surmai tawa fry
+Kingfish in coastal spices and tawa fried.
+Amritsari fish fry
+Fish in spiced gram flour batter, deep fried.
+Dynamite prawns
+Dynamite prawns
+Crispy prawns in spicy sriracha mayo.
+Kataifi prawns
+Prawns encased in shredded kataifi pastry.
+Prawns tempura
+Japanese light battered crispy tempura.
+Prawns chilli basil
+Prawns butter garlic
+Prawns koliwada
+Mumbai koli style spiced batter and deep fried
+Ghee roast prawns
+Mangalorean prawns in ghee and coastal spices.
+Crispy Bombay duck
+Coastal Bombay Duck, crisp fried.
+Crispy mandeli fry
+Tiny coastal fish fried crisp Koli style.
+
+Main Course
+Veg Chinese Gravy
+Veg black pepper gravy
+Veg classic manchurian gravy
+Veg soya chilli gravy
+Veg schezwan gravy
+Veg hot garlic gravy
+Veg kung pao gravy
+Paneer black pepper gravy
+Paneer classic manchurian gravy
+Paneer soya chilli gravy
+Paneer schezwan gravy
+Paneer hot garlic gravy
+Paneer kung pao gravy
+
+Non Veg Chinese Gravy
+Chicken black pepper gravy
+Exotic veg and protein, wok fried with colorful vegetables and a savory black ... read more
+Chicken classic manchurian
+Chicken soya chilli gravy
+Chicken schezwan gravy
+A spicy and flavorful Chinese sauce made with red chillies, garlic, ginger, and ... read more
+Chicken hot garlic gravy
+Chicken chilli oyster gravy
+Chicken kung pao gravy
+Fish black pepper
+Fish classic manchurian gravy
+Fish soya chilli gravy
+Fish schezwan gravy
+Fish hot garlic gravy
+Fish chilli oyster gravy
+Fish kung pao gravy
+Prawns black pepper gravy
+Exotic veg and protein, wok fried with colorful vegetables and a savory black ... read more
+Prawns classic manchurian gravy
+Prawns soya chilli gravy
+Prawns schezwan gravy
+A spicy and flavorful Chinese sauce made with red chillies, garlic, ginger, and ... read more
+Prawns kung pao gravy
+Prawns hot garlic gravy
+Prawns chilli oyster gravy
+Veg chilli oyster gravy
+Paneer chilli oyster gravy
+
+Veg Main Course
+Paneer kurchan
+Shredded paneer in onion capsicum masala.
+Paneer lababdar
+Rich onion gravy with cashews, cream, spices and grated cheese
+Veg patiyala
+Veg patiyala
+Kaju paneer masala
+Paneer in luxurious cashew and tomato gravy.
+Amritsari dal makhani
+Black lentils, butter and cream overnight slow cooked.
+Dhaba style dal tadka
+Slow cooked lentils, hot ghee and onion tempering.
+Dilli ke paneer makhani
+Rich buttery tomato cashew gravy old Delhi style.
+Veg kolhapuri
+Robust Maharashtrian kolhapuri masala.
+Royal malai kofta
+Paneer potato koftas in creamy cashew tomato gravy.
+Tandoori paneer tikka masala
+Smoky tandoor grilled paneer in spiced onion tomato gravy.
+Lasuni palak paneer
+Paneer in spinach gravy, tempered with roasted garlic
+Veg akhbari
+Vegetables in rich makhani style gravy.
+Kalp special veg
+Chefs special combination rich ,layered and proudly our own.
+Sabji diwani handi
+Veg kadhai
+Wok tossed with onion, capsicum and kadai masala.
+Mushroom do pyaaza
+Mushroom do pyaaza
+Mushrooms with double onion masala.
+Punjabi kadhi pakoda
+Fried pakodas in tangy yogurt kadhi.
+Veg bhuna masala
+Aloo gobhi matar
+Chataka chole masala
+Veg pad krapow
+Wok tossed rice with tofu in thai basil chilli gravy.
+Dal fry
+Yellow lentils, garlic, cumin and ghee tempering.
+
+Non Veg Main Course
+Chicken musallam
+Mutton rogan josh
+Kashmiri classic in aromatic spiced gravy.
+Old Delhi chicken makhani
+Tandoor grilled chicken in buttery tomato cashew gravy.
+Nagpuri saoji chicken
+Dark roasted spice and chilli gravy bold Nagpur speciality.
+Malvani prawns fish curry
+Mutton rara
+Mutton pieces and minced mutton double depth.
+Chicken handi
+Slow cooked in spiced gravy with cream, traditional handi.
+Signature chargrilled chicken tikka masala
+Smoky chargrilled tikka in spiced onion tomato gravy.
+Tamilnadu chicken chettinad
+Roasted coconut, curry leaves and chettinad spices.
+Chicken kolhapuri
+Coconut flavor spicy gravy with tender chicken.
+Chicken patiyala
+Boneless chicken with stuffed omelette roll.
+Chicken rara
+Chicken pieces and minced chicken double Punjabi.
+Chicken kadai
+Chicken pad krapaw
+Fragrant rice with minced chicken in thai basil chilli gravy and fried egg.
+Chicken omurice
+Soft omelette over chicken fried rice.
+Dhangari mutton
+Shepherd style Maharashtrian mutton slow cooked.
+Dum ka ghosht
+Slow dum cooked mutton in whole spice gravy.
+Mutton kolhapuri
+Pomfret Kerala fish moilee
+Pomfret Malvani fish curry
+Old Goa pomfret fish curry
+Kerala pomfret fish moilee
+Malvani king fish curry
+Old Goa king fish curry
+Prawns Kerala fish moilee
+Old Goa prawns fish curry
+
+Breads
+Plain tandoori roti
+Butter tandoori roti
+Plain Malabar paratha
+Butter Malabar paratha
+Plain laccha paratha
+Plain laccha paratha
+Butter laccha paratha
+Butter laccha paratha
+Plain kulcha
+Plain kulcha
+Butter kulcha
+Butter kulcha
+Cheese kulcha
+Cheese kulcha
+Plain naan
+Plain naan
+Butter naan
+Butter naan
+Cheese naan
+Cheese naan
+Plain garlic naan
+Plain garlic naan
+Butter garlic naan
+Butter garlic naan
+Cheese garlic naan
+Plain chur chur naan
+Butter chur chur naan
+
+Rice and Biryani
+Rice
+Ghee dal khichdi
+Rice and lentils with ghee, mild spices and papad.
+Jeera rice
+Jeera rice
+Basmati tempered with cumin and ghee.
+Steamed rice
+Steamed rice
+Palak khichdi
+Spinach infused lentil rice wholesome and nourishing.
+Yakhni pulao
+Aromatic rice in slow cooked lamb stock, whole spices.
+
+Biryani
+Chicken dum biryani
+Chicken dum biryani
+Slow dum cooked chicken with fragrant basmati.Served with raita,pickle and papad.
+Veg biryani
+Spiced vegetables layered with fragrant basmati. Served with raita,pickle and papad.
+Chicken tikka biryani
+Chicken tikka biryani
+Served with raita,pickle and papad.
+Mutton dum biryani
+Slow dum cooked mutton, layered with basmati. Served with raita,pickle and papad.
+Chargrilled paneer tikka biryani
+Smoky paneer tikka layered with aromatic basmati.Served with raita,pickle and papad.
+Prawns biryani
+Coastal specialty prawns with fragrant basmati. Served with raita,pickle and papad.
+Mutton raan biryani
+Whole slow roasted lamb leg, biryani-style for the table. Served with raita,pickle and ... read more
+
+Fried Rice and Noodles
+Fried Rice
+Veg triple schezwan fried rice
+Veg triple schezwan fried rice
+Veg schezwan fried rice
+Veg schezwan fried rice
+Veg fried rice
+Veg fried rice
+Veg burnt garlic fried rice
+Veg tom yum fried rice
+Veg tom yum fried rice
+Veg manchurian fried rice
+
+Non Veg Fried Rice
+Chicken triple schezwan fried rice
+Chicken triple schezwan fried rice
+Stir fried rice and noodles tossed with schezwan sauce with aromatic spices comes ... read more
+Chicken fried rice
+Chicken fried rice
+Wok tossed rice infused with soya, vinegar and chilli sauce along with accompaniments.
+Chicken schezwan fried rice
+Stir fried cooked rice with vegetables and protein seasoned with schezwan sauce.
+Chicken burnt garlic fried rice
+Chicken tom yum fried rice
+Chicken tom yum fried rice
+Thai inspired food where fragrant rice made with tom yum paste and thai ... read more
+Chicken manchurian fried rice
+Prawns fried rice
+Prawns fried rice
+Cooked rice stir fried in a wok with vegetables, protein, and soy sauce.
+Prawns schezwan fried rice
+Prawns schezwan fried rice
+Stir fried cooked rice with vegetables and protein seasoned with schezwan sauce.
+Prawns burnt garlic fried rice
+Prawns tom yum fried rice
+Prawns tom yum fried rice
+Thai inspired food where fragrant rice made with tom yum paste and thai ... read more
+Prawns manchurian fried rice
+Prawns triple schezwan fried rice
+Prawns triple schezwan fried rice
+Stir fried rice tossed with schezwan sauce with aromatic seasoning.
+Nasi goreng fried rice
+Indonesian prawn fried rice in sambal, chicken satay, fried egg and crackers.
+
+Veg Noodles
+Veg hakka noodles
+Veg hakka noodles
+Veg schezwan noodles
+Veg schezwan noodles
+Veg burnt garlic noodles
+Veg manchurian noodles
+Veg triple schezwan noodles
+Veg triple schezwan noodles
+Veg phat thai noodles
+Veg mie goreng noodles
+Veg dan dan noodles
+Veg pan fried noodles
+
+Non Veg Noodles
+Chicken hakka noodles
+Chicken hakka noodles
+Wok tossed noodles infused with soya, vinegar and chilli sauce along with accompaniments.
+Prawns dan dan noodles
+Wheat noodles topped with spicy and savory sauce made from schzewan papercorns chilli ... read more
+Chicken schezwan noodles
+Chicken schezwan noodles
+Stir fried cooked rice with vegetables and protein seasoned with schezwan sauce.
+Chicken burnt garlic noodles
+Chicken manchurian noodles
+Chicken triple schezwan noodles
+Chicken triple schezwan noodles
+Stir fried noodles tossed with schezwan sauce with aromatic seasoning.
+Chicken phat thai noodles
+Chicken mie goreng noodles
+Chicken dan dan noodles
+Wheat noodles topped with spicy and savory sauce made from schzewan papercorns chilli ... read more
+Chicken pan fried noodles
+Pan fried noodles topping with vegetables and protiens.
+Prawns hakka noodles
+Prawns hakka noodles
+Stir fried noodles tossed with a medley of vegetables, and flavored with a ... read more
+Prawns schezwan noodles
+Prawns schezwan noodles
+Stir fried cooked rice with vegetables and protein seasoned with schezwan sauce.
+Prawns burnt garlic noodles
+Prawns manchurian noodles
+Prawns triple schezwan noodles
+Prawns triple schezwan noodles
+Stir fried noodles tossed with schezwan sauce with aromatic seasoning.
+Prawns phat thai noodles
+Prawn mie goreng noodles
+Prawns pan fried noodles
+Pan fried noodles topping with vegetables and protiens.
+
+Pizza and Pasta
+Pizza
+Margherita pizza
+Margherita pizza
+Marinara sauce, mozzarella and fresh basil.
+Exotic vegetable pizza
+Broccoli, zucchini, mushroom, babycorn and bell pepper.
+Paneer tikka pizza
+Paneer tikka, onion, tomato, capsicum and mint mayo.
+Paneer makhani pizza
+Paneer tikka in makhani sauce fusion comfort.
+Barbecue paneer pizza
+Barbeque paneer, bell pepper, onion and barbeque sauce.
+Peri peri paneer pizza
+Peri peri paneer pizza
+Paneer chilli pizza
+Chicken tikka pizza
+Chicken tikka, onion, tomato, capsicum and mint mayo.
+Barbeque chicken pizza
+Barbeque chicken pizza
+Barbeque chicken, bell pepper, onion and barbeque sauce.
+Peri peri chicken pizza
+Peri peri chicken pizza
+A zesty and spicy pizza featuring peri peri marinated chicken, pickled red peppers ... read more
+Chicken makhani pizza
+Chicken chilli pizza
+
+Pasta
+Spaghetti aglio olio pasta
+Garlic, olive oil, chilli flakes and parsley.
+Mac n cheese pasta
+Macaroni baked in creamy cheese sauce and golden crust.
+Veg pasta
+Chicken pasta
+One pot cajun chicken pasta
+Rich spiced cajun cream sauce bold and comforting.
+Garlic butter prawn spaghetti pasta
+Plump prawns in garlic butter coastal luxury.
+Prawns pasta
+Lamb spaghetti bolognese
+Rich minced lamb ragu, slow cooked tomato.
+
+Pide and Manakeesh
+Ispanak mantar
+Turkish pide with spinach and mushroom.
+African chicken
+Turkish pide with African style spiced chicken.
+Zaatar cheese
+Zaatar herb blend and melted cheese.
+Harissa chicken
+Harissa marinated chicken fiery and aromatic.
+
+Snacks
+Peri peri fries
+Peri peri fries
+Tossed in peri peri seasoning with mayo.
+Peri peri chicken popcorn
+Peri peri chicken popcorn
+Crispy bite sized chicken and peri peri mayo.
+Veg loaded nachos
+Veg loaded nachos
+Cheese, jalapenos and salsa.
+Cheese chilli toast
+Cheese chilli toast
+Cheese garlic bread
+Chana garlic koliwada
+Mumbai style spiced chickpeas and garlic.
+Peanut masala
+Peanut masala
+House spiced crunchy peanuts.
+Cheese cherry pineapple
+Sweet savoury cheese skewers.
+Classic french fries
+Golden crispy fries with ketchup.
+Mix vegetables fries
+Corn cheese ball
+Golden fried, sweet corn and cheese inside.
+Garlic bread
+Garlic bread
+Chicken loaded nachos
+Chicken loaded nachos
+Cheese, jalapenos and salsa.
+Masala fish finger
+Crumb fried fish fingers, tartar sauce.
+Prawn cracker
+Light Asian style crispy prawn crackers.
+
+Sushi Dimsum and Bao
+Sushi Rolls
+Prawns tempura roll [6 pieces]
+Crunchy tempura prawn with spicy mayo.
+Cucumber avacado maki roll [6 pieces]
+Classic Japanese maki, fresh cucumber and avocado.
+Chicken dragon roll [6 pieces]
+Inside out roll with crispy chicken and avocado.
+
+Dimsum
+Chicken siu mai [4 pieces]
+Steamed cantonese dumpling, minced chicken.
+Thai style veg dim sum [4 pieces]
+Steamed dumplings,thai spiced vegetables.
+
+Bao Buns
+Korean fried chicken bao buns [2 pieces]
+Pillowy bao with gochujang fried chicken and slaw.
+Chilli garlic tofu bao buns [2 pieces]
+Soft bao with crispy tofu in chilli garlic sauce.
+Prawn and avocado bao buns
+Steamed bao with plump prawn and creamy avocado.
+
+Momos
+Veg Momos
+Trufle mushroom cream cheese [6 pieces]
+Steamed dumplings with truffle mushroom and cream cheese.
+Veg steamed momos [6 pieces]
+Veg pan fried momos [6 pieces]
+Veg tandoori momos [6 pieces]
+Veg jhol momos [6 pieces]
+Veg schezwan tossed momos [6 pieces]
+
+Non Veg Momos
+Chicken steamed momos [6 pieces]
+Chicken pan fried momos [6 pieces]
+Chicken tandoori momos [6 pieces]
+Chicken jhol momos [6 pieces]
+Chicken schezwan momos [6 pieces]
+Har gow shrimp dumplings [6 pieces]
+Translucent steamed shrimp dumplings.
+
+Ramen and Khowsuey
+Chicken spicy miso ramen
+Chicken curry ramen
+Paneer curry ramen
+Paneer shoyu ramen
+Paneer spicy chilli ramen
+Paneer spicy miso ramen
+Paneer khowsuey
+Tofu shoyu ramen
+Tofu curry ramen
+Tofu spicy chilli ramen
+Tofu spicy miso ramen
+Tofu khowsuey
+Chicken shoyu ramen
+Chicken spicy chilli ramen
+Chicken khowsuey
+Burmese coconut milk based soup, served with noodles and an array of condiments, ... read more
+Prawns shoyu ramen
+Prawns curry ramen
+Prawns spicy chilli ramen
+Prawns spicy miso ramen
+Prawns khowsuey
+Burmese coconut milk based soup, served with noodles and an array of condiments, ... read more
+Chicken and prawns shoyu ramen
+Chicken and prawns curry ramen
+Chicken and prawns spicy chilli ramen
+Chicken and prawns spicy miso ramen
+Chicken and prawns khowsuey
+
+Accompaniments
+Mix veg raita
+Boondi raita
+Burani raita
+Persian style curd with garlic and mint.
+Smoked pineapple raita
+Curd with smoked pineapple sweet and smoky.
+Roasted papad
+Masala papad
+Plain curd
+Kadak rumali masala papad
+Crisp rumali papad with spiced topping.
+
+Desserts
+Sizzling brownie with miso caramel
+Warm chocolate brownie on sizzle plate with miso caramel and vanilla ice cream.
+Lotus drama
+[Veg preparation] Spectacular lotus biscoff inspired dessert creamy, crunchy and theatrica.l
+Baklava with ice cream
+Flaky honey nut baklava with vanilla ice cream.
+Zaffrani milk cake
+Saffron infused slow set milk cake delicate and fragrant.
+Thai street style fried banana pancake
+Crispy wonton parcel, banana, honey , caramel and vanilla ice cream.
+HK crispy honey darsaan
+Honey glazed crispy noodles, sesame and vanilla ice cream.
+Creamy thai coconut pudding
+Delicately set coconut milk pudding and caramel sauce
