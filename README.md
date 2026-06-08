@@ -115,10 +115,10 @@ Follow these steps to run the project locally.
 
 | Feature | Screenshot |
 | :---: | :---: |
-| **Landing Page** | `<img src="[PLACEHOLDER_URL]" width="400" alt="Landing Page"/>` |
-| **Interactive Blueprint** | `<img src="[PLACEHOLDER_URL]" width="400" alt="Table Blueprint"/>` |
-| **Admin Dashboard** | `<img src="[PLACEHOLDER_URL]" width="400" alt="Admin Dashboard"/>` |
-| **Analytics Charts** | `<img src="[PLACEHOLDER_URL]" width="400" alt="Analytics"/>` |
+| **Landing Page** | `<img src="Screenshots/Screenshot (211).png" width="400" alt="Landing Page"/>` |
+| **Interactive Blueprint** | `<img src="Screenshots/Screenshot (212).png" width="400" alt="Table Blueprint"/>` |
+| **Admin Dashboard** | `<img src="Screenshots/Screenshot (213).png" width="400" alt="Admin Dashboard"/>` |
+| **Analytics Charts** | `<img src="Screenshots/Screenshot (214).png" width="400" alt="Analytics"/>` |
 
 ---
 
