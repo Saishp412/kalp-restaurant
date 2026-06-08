@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Kalp Restaurant - Next-Gen Reservation System</h1>
   <p><strong>A modern, full-stack dining management platform built with Next.js and MongoDB.</strong></p>
+  <p>🚀 <strong>Live Demo:</strong> <a href="https://kalp-restaurant.vercel.app" target="_blank">kalp-restaurant.vercel.app</a></p>
   
   <p>
     <a href="#about-the-project">About</a> • 
