@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🍽️ Kalp Restaurant - Next-Gen Reservation System</h1>
+  <h1>Kalp Restaurant - Next-Gen Reservation System</h1>
   <p><strong>A modern, full-stack dining management platform built with Next.js and MongoDB.</strong></p>
   
   <p>
@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🎯 About The Project
+## About The Project
 
 **Kalp Restaurant** is a sophisticated, full-stack web application designed to revolutionize the way restaurants handle reservations, customer waitlists, and private event inquiries. 
 
@@ -22,7 +22,7 @@ Moving away from archaic phone-booking systems, this platform introduces an **in
 
 ---
 
-## 💼 Business Value
+## Business Value
 
 In the competitive hospitality industry, operational efficiency and customer experience are paramount. This project directly addresses core business challenges:
 - **Maximized Seat Utilization:** Real-time dynamic availability algorithms prevent double-booking while ensuring tables don't sit empty.
@@ -32,7 +32,7 @@ In the competitive hospitality industry, operational efficiency and customer exp
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 The application is architected as a monolithic full-stack Next.js application, utilizing Serverless API routes for the backend and MongoDB for persistent data storage.
 
@@ -56,7 +56,7 @@ The application is architected as a monolithic full-stack Next.js application, u
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Interactive Table Blueprint Booking
 Customers can visually explore the restaurant's floor plan, selecting their preferred seating (e.g., near the window, private booths) with real-time updates on what is currently free, reserved, or occupied.
@@ -75,7 +75,7 @@ A secure, multi-tabbed interface for management:
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 Follow these steps to run the project locally.
 
@@ -111,7 +111,7 @@ Follow these steps to run the project locally.
 
 ---
 
-## 📸 Application Screenshots
+## Application Screenshots
 
 | Feature | Screenshot |
 | :---: | :---: |
@@ -123,5 +123,5 @@ Follow these steps to run the project locally.
 ---
 
 <div align="center">
-  <i>Developed with ❤️ using Next.js</i>
+  <i>Developed using Next.js</i>
 </div>
