@@ -116,9 +116,13 @@ Follow these steps to run the project locally.
 | Feature | Screenshot |
 | :---: | :---: |
 | **Landing Page** | <img src="Screenshots/Screenshot%20(211).png" width="400" alt="Landing Page"/> |
-| **Interactive Blueprint** | <img src="Screenshots/Screenshot%20(212).png" width="400" alt="Table Blueprint"/> |
-| **Admin Dashboard** | <img src="Screenshots/Screenshot%20(213).png" width="400" alt="Admin Dashboard"/> |
-| **Analytics Charts** | <img src="Screenshots/Screenshot%20(214).png" width="400" alt="Analytics"/> |
+| **Menu Page** | <img src="Screenshots/Screenshot%20(212).png" width="400" alt="Menu Page"/> |
+| **Reserving a Table** | <img src="Screenshots/Screenshot%20(213).png" width="400" alt="Reserving a Table"/> |
+| **Contact Details** | <img src="Screenshots/Screenshot%20(214).png" width="400" alt="Contact Details"/> |
+| **Admin Portal** | <img src="Screenshots/Screenshot%20(215).png" width="400" alt="Admin Portal"/> |
+| **Table Layout** | <img src="Screenshots/Screenshot%20(217).png" width="400" alt="Table Layout"/> |
+| **Analytics Tab** | <img src="Screenshots/Screenshot%20(218).png" width="400" alt="Analytics Tab"/> |
+| **Walk-in Reservation (Admin)** | <img src="Screenshots/Screenshot%20(219).png" width="400" alt="Walk-in Reservation"/> |
 
 ---
 
